@@ -1,0 +1,6 @@
+
+pip install pypiwin32
+
+pip install pyinstaller
+
+pyinstaller --onefile --icon=favicon.ico --noconsole test.py
