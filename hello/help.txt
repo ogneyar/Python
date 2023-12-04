@@ -1,0 +1,6 @@
+
+// сначала качаем pyinstaller
+pip install pyinstaller
+
+// делаем из .py в .exe
+pyinstaller --onefile hello.py
